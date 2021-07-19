@@ -1,0 +1,4 @@
+/Users/lfierz/arbeiten/programming/projects/sudoku_solver/build/CMakeFiles/sudoku_solver_exec.dir
+/Users/lfierz/arbeiten/programming/projects/sudoku_solver/build/CMakeFiles/rebuild_cache.dir
+/Users/lfierz/arbeiten/programming/projects/sudoku_solver/build/CMakeFiles/edit_cache.dir
+/Users/lfierz/arbeiten/programming/projects/sudoku_solver/build/CMakeFiles/sudoku_solver_lib.dir
